@@ -1,7 +1,8 @@
 ```markdown
 # 🌍 Sistema de Gerenciamento de Planetas
 
-Este é um aplicativo desenvolvido com **Flutter** e **SQLite** para gerenciar informações de planetas, permitindo criar, visualizar, editar e excluir registros de planetas.
+Este é um aplicativo desenvolvido com **Flutter** e **SQLite** para gerenciar informações de planetas,
+permitindo criar, visualizar, editar e excluir registros de planetas.
 
 ## 📌 Funcionalidades
 ✅ Cadastro de planetas com nome, distância do Sol, tamanho e apelido (opcional).  
